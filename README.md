@@ -7,3 +7,5 @@ Economics & Statistics
 
 
 <H2> Projects </H2>
+
+# [Linear Regression ](https://github.com/Muhammedhchm/Muhammedhchm.Github.io/blob/main/linear%20regression.ipy)
