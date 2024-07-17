@@ -8,4 +8,4 @@ Economics & Statistics
 
 <H2> Projects </H2>
 
-# [Linear Regression ](linear regression.ipynb)
+# [linear regression.ipynb](https://github.com/Muhammedhchm/Muhammedhchm.Github.io/blob/6010fbaa49a1968dce1f24ae6e85dff2075be32c/linear%20regression.ipynb))
