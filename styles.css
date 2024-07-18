@@ -3,12 +3,8 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-     background-color: #000000;
-
-}
-body {
-  background-image: url('/path/to/image.jpg');
-}
+     background-color: #4CAF50;
+      background-image: url('/path/to/image.jpg');
 
 header {
     background-color: #4CAF50;
