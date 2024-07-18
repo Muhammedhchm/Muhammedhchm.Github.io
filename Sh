@@ -1,0 +1,9 @@
+# Add all files
+git add .
+cd
+
+# Commit the changes
+git commit -m "Initial commit - linear regression.ipynb"
+
+# Push to GitHub
+git push origin main
