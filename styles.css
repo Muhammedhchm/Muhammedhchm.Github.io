@@ -4,8 +4,7 @@ body {
     padding: 0;
     text-align: center;
      background-color: #4CAF50;
-      background-image: url('/path/to/image.jpg');
-
+}
 header {
     background-color: #4CAF50;
     color: white;
