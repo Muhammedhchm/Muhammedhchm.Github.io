@@ -6,6 +6,9 @@ body {
      background-color: #000000;
 
 }
+body {
+  background-image: url('/path/to/image.jpg');
+}
 
 header {
     background-color: #4CAF50;
